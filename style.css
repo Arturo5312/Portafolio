@@ -84,10 +84,7 @@ nav::before {
       rgba(77,163,255,0.02),
       rgba(124,192,255,0.18)
     );
-
-  -webkit-mask:
-    linear-gradient(#fff 0 0) content-box,
-    linear-gradient(#fff 0 0);
+    
 
   -webkit-mask-composite: xor;
           mask-composite: exclude;
