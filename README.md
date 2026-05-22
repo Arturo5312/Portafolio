@@ -1,61 +1,106 @@
-🌐 Portafolio Web
-🔗 Demo del proyecto
+# 🌐 Portafolio Web
 
-👉 Visita mi portafolio aquí:
-https://arturo5312.github.io/Portafolio/
+## 🔗 Demo del Proyecto
 
-Bienvenido a mi portafolio web. Este proyecto fue desarrollado con el objetivo de mostrar mis habilidades, proyectos y conocimientos en desarrollo web.
+👉 **Visita mi portafolio aquí:**  
+🔗 https://arturo5312.github.io/Portafolio/
 
-🚀 Tecnologías utilizadas
-HTML5
-CSS3
-JavaScript
-Git
-GitHub
-GitHub Pages
-📂 Estructura del proyecto
-📁 portafolio
- ┣ 📂 assets
- ┣ 📂 css
- ┣ 📂 js
- ┣ 📂 img
- ┣ 📜 index.html
+---
+
+## 📖 Descripción
+
+Bienvenido a mi portafolio web.  
+Este proyecto fue desarrollado con el objetivo de mostrar mis habilidades, proyectos y conocimientos en desarrollo web.
+
+El sitio cuenta con un diseño moderno, adaptable a dispositivos móviles y una estructura organizada para presentar información profesional y proyectos personales.
+
+---
+
+## 🚀 Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- GitHub Pages
+
+---
+
+## 📂 Estructura del Proyecto
+
+```bash
+📁 Portafolio
+ ┣ 📜 índice.html
+ ┣ 📜 estilo.css
+ ┣ 📜 main.js
  ┗ 📜 README.md
-✨ Características
-Diseño moderno y responsivo
-Navegación sencilla
-Sección de proyectos
-Información personal y de contacto
-Estilos personalizados
-Compatible con dispositivos móviles
-📸 Vista previa
+```
 
-Puedes visualizar el proyecto en línea aquí:
+---
 
-👉 https://arturo5312.github.io/Portafolio/
+## ✨ Características
 
-El sitio se encuentra desplegado mediante GitHub Pages.
+✔ Diseño moderno y responsivo  
+✔ Navegación sencilla e intuitiva  
+✔ Organización limpia del código  
+✔ Compatible con dispositivos móviles  
+✔ Implementación con GitHub Pages  
+✔ Uso de animaciones y estilos personalizados  
 
-🛠️ Instalación y uso
-Clona este repositorio:
+---
+
+## 📸 Vista Previa
+
+Puedes visualizar el proyecto en línea desde el siguiente enlace:
+
+🔗 https://arturo5312.github.io/Portafolio/
+
+---
+
+## 🛠️ Instalación y Uso
+
+### 1️⃣ Clonar el repositorio
+
+```bash
 git clone https://github.com/Arturo5312/Portafolio.git
-Entra a la carpeta del proyecto:
+```
+
+### 2️⃣ Entrar a la carpeta del proyecto
+
+```bash
 cd Portafolio
-Abre el archivo index.html en tu navegador.
-📌 Objetivo del proyecto
+```
+
+### 3️⃣ Abrir el proyecto
+
+Abre el archivo `índice.html` en tu navegador.
+
+---
+
+## 📌 Objetivo del Proyecto
 
 Este portafolio fue creado como práctica y presentación profesional para demostrar conocimientos en:
 
-Maquetación web
-Diseño responsivo
-Organización de proyectos
-Uso de control de versiones con Git y GitHub
-📬 Contacto
+- Maquetación web
+- Diseño responsivo
+- Organización de proyectos
+- Uso de Git y GitHub
+- Desarrollo Frontend
 
-Si deseas comunicarte conmigo:
+---
 
-GitHub: https://github.com/Arturo5312
-LinkedIn: https://www.linkedin.com/in/jose-arturo-ramirez-soto
-Correo: tucorreo@example.com
+## 📬 Contacto
 
-⭐ Gracias por visitar mi portafolio.
+📧 **Correo:**  
+sotoa3686@gmail.com
+
+💻 **GitHub:**  
+https://github.com/Arturo5312
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/jose-arturo-ramirez-soto
+
+---
+
+# ⭐ Gracias por visitar mi portafolio
